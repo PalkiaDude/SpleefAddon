@@ -1,0 +1,6 @@
+name: PalkiaSpleef
+author: PalkiaDude
+version: 1.0
+api: [1.12.0]
+description: A spleef plugin where snowball projectiles destory snow blocks!
+main: Palkia\Main
